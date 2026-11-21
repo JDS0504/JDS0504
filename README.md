@@ -1,143 +1,46 @@
-# ¡Hola mundo! Soy Javier Delgado Salcedo 👋
-### FullStack Developer & AWS Certified Solutions Architect ☁️
+# Javier Delgado Salcedo
+### Cloud Full Stack Developer & AWS Certified Solutions Architect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/javier-delgado-salcedo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.credly.com/badges/7e2c1725-1c70-494d-b986-cb6c6b720619" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA" />
-  </a>
-  <a href="https://www.credly.com/badges/e42921bf-78e7-48c4-9e7c-686c6800b117" target="_blank">
-    <img src="https://img.shields.io/badge/AWS%20Partner-Generative%20AI-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS GenAI" />
-  </a>
-  <a href="https://acortar.link/CursosCertificados" target="_blank">
-    <img src="https://img.shields.io/badge/%2B-M%C3%A1s%20Certificados-2ea44f?style=for-the-badge&logo=badge&logoColor=white" alt="+ Certificados" />
-  </a>
-  <a href="https://www.sistemasimpulsa.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Sistemas_Impulsa-00C7B7?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
-  </a>
-  <a href="mailto:delgadosalcedojavier@gmail.com">
-    <img src="https://img.shields.io/badge/Email-delgadosalcedojavier%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-delgado-salcedo)
+[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Associate-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/7e2c1725-1c70-494d-b986-cb6c6b720619)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Sistemas_Impulsa-00C7B7?style=flat&logo=firefox&logoColor=white)](https://www.sistemasimpulsa.com)
+[![Email](https://img.shields.io/badge/Contact-delgadosalcedojavier%40gmail.com-grey?style=flat&logo=gmail)](mailto:delgadosalcedojavier@gmail.com)
 
 ---
 
-## 👨‍💻 Sobre Mí
+### 👨‍💻 Perfil Profesional
 
-Bachiller en **Ingeniería de Sistemas e Informática** con **+4 años de experiencia** profesional en desarrollo Full Stack y arquitectura de soluciones Cloud sobre **Amazon Web Services (AWS)**, certificado como **AWS Certified Solutions Architect – Associate**.
+Bachiller en **Ingeniería de Sistemas e Informática** con más de 4 años de experiencia diseñando y desplegando arquitecturas Cloud escalables en **Amazon Web Services (AWS)** y construyendo aplicaciones empresariales end-to-end con el ecosistema **TypeScript, Node.js, React y Vue 3**.
 
-- ☁️ **Cloud & Arquitectura:** Diseño e implementación de arquitecturas Cloud Serverless escalables en AWS (API Gateway, Lambda, CloudFront, WAF, ALB, ECS con Fargate, EventBridge y SQS FIFO).
-- ⚙️ **Backend:** Construcción de microservicios y APIs RESTful robustas con **Node.js, TypeScript, NestJS y Express** bajo estándares de Clean Architecture y principios SOLID.
-- 🎨 **Frontend:** Creación de interfaces modernas, reactivas y de alto rendimiento utilizando **React.js** y **Vue.js (Vue 3, Composition API, Pinia, Element Plus)** con **Vite** y **Tailwind CSS**.
-- 🗄️ **Bases de Datos & SQL:** Modelado relacional y no relacional con **PostgreSQL, MySQL, OracleDB, SQLite, Amazon DynamoDB y Firestore**. Instructor técnico de SQL con más de 130,000 estudiantes formados en plataformas e-learning.
+Especializado en la creación de ERPs modulares, sistemas transaccionales y plataformas de facturación electrónica bajo estándares de **Clean Architecture**, principios SOLID y microservicios orientados a eventos. Docente e instructor técnico de bases de datos relacionales (SQL) con una comunidad de más de 130,000 estudiantes formados en plataformas de educación tecnológica.
 
 ---
 
-## 🛠️ Habilidades Técnicas & Stack Tecnológico
+### 🏛️ Arquitectura & Competencias Técnicas
 
-### ☁️ Cloud & DevOps
-• **AWS Cloud:** API Gateway, AWS Lambda, CloudFront, AWS WAF, ALB, Amazon ECS (Fargate), AWS ECR, Amazon S3, Amazon RDS, Amazon DynamoDB, Amazon EC2, Amazon SQS (FIFO), Amazon EventBridge.  
-• **Herramientas & CI/CD:** Docker, Linux (VPS), GitLab CI, GitHub Actions, Git.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="Lambda" />
-  <img src="https://img.shields.io/badge/Amazon%20ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white" alt="ECS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux%20VPS-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
-
-### ⚙️ Backend & Seguridad
-• **Core:** Node.js, TypeScript, Express.js, NestJS, APIs RESTful, Microservicios Serverless, Arquitectura Orientada a Eventos.  
-• **Seguridad & Calidad:** Autenticación y Autorización (tokens JWT, Firebase Auth), Clean Architecture, Principios SOLID, Patrones de Diseño.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT" />
-</p>
-
-### 🎨 Frontend
-• **Frameworks & Librerías:** React.js, Vue.js (Vue 3, Composition API, Pinia), TypeScript, Zustand.  
-• **Diseño & Rendimiento:** Vite, Tailwind CSS, Bootstrap, Element Plus, Manejo de Estado y Asincronía.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js%203-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Element%20Plus-409EFF?style=flat-square&logo=element&logoColor=white" alt="Element Plus" />
-</p>
-
-### 🗄️ Bases de Datos
-• **Relacionales (SQL):** PostgreSQL, MySQL, OracleDB, SQLite. Modelado relacional, consultas complejas y optimización de índices.  
-• **NoSQL & Cloud:** Amazon DynamoDB, Firestore (Firebase). Modelado no relacional y sincronización en tiempo real.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
-  <img src="https://img.shields.io/badge/Firebase%20Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firestore" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
-
-### 🧪 Testing & Metodologías
-• **Testing:** Jest, Vitest, Pruebas Unitarias y de Integración.  
-• **Metodologías:** Scrum / Agile, Code Reviews, Git Flow.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
-  <img src="https://img.shields.io/badge/Scrum-000000?style=flat-square&logo=scrum&logoColor=white" alt="Scrum" />
-</p>
+* **Cloud & Infraestructura Serverless:**  
+  AWS (API Gateway, AWS Lambda, CloudFront, AWS WAF, Application Load Balancers, ECS Fargate, ECR, S3, RDS, DynamoDB, EventBridge, SQS FIFO). Docker, Linux VPS y pipelines de CI/CD (GitHub Actions, GitLab CI).
+* **Backend & Servicios Distribuidos:**  
+  Node.js, TypeScript, NestJS, Express.js. Arquitectura hexagonal, diseño de APIs RESTful resilientes, autenticación y autorización robusta (JWT, OAuth) y patrones de mensajería asíncrona.
+* **Frontend & State Management:**  
+  Vue.js (Vue 3, Composition API, Pinia), React.js, TypeScript, Vite, Tailwind CSS y diseño de interfaces modulares de alto rendimiento orientadas a operación continua.
+* **Datos & Persistencia:**  
+  Modelado y optimización de consultas complejas en motores relacionales (**PostgreSQL, MySQL, OracleDB, SQLite**) y bases NoSQL de baja latencia (**Amazon DynamoDB, Firestore**).
 
 ---
 
-## 🏆 Certificaciones Oficiales AWS & Formación Continua
+### 🏆 Credenciales Oficiales AWS (Verificables)
 
-### ☁️ Insignias Oficiales Verificables en Credly
-<p align="left">
-  <a href="https://www.credly.com/badges/7e2c1725-1c70-494d-b986-cb6c6b720619" target="_blank">
-    <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS SAA Badge" />
-  </a>
-  <a href="https://www.credly.com/badges/e42921bf-78e7-48c4-9e7c-686c6800b117" target="_blank">
-    <img src="https://img.shields.io/badge/AWS%20Partner-Generative%20AI%20Technical-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS GenAI Badge" />
-  </a>
-  <a href="https://www.credly.com/badges/4b5ecab0-e023-46e2-88b7-085df879da58" target="_blank">
-    <img src="https://img.shields.io/badge/AWS%20Partner-Technical%20Accredited-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Technical Accredited Badge" />
-  </a>
-  <a href="https://www.credly.com/badges/42b6167e-2fc3-4552-9248-a239421141c0" target="_blank">
-    <img src="https://img.shields.io/badge/AWS%20Partner-Digital%20Sovereignty-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Digital Sovereignty Badge" />
-  </a>
-</p>
-
-- 🏅 [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/7e2c1725-1c70-494d-b986-cb6c6b720619) — *Amazon Web Services* ([Verificar en Credly ↗️](https://www.credly.com/badges/7e2c1725-1c70-494d-b986-cb6c6b720619))
-- 🤖 [**AWS Partner: Generative AI Technical**](https://www.credly.com/badges/e42921bf-78e7-48c4-9e7c-686c6800b117) — *Amazon Web Services* ([Verificar en Credly ↗️](https://www.credly.com/badges/e42921bf-78e7-48c4-9e7c-686c6800b117))
-- 🏗️ [**AWS Partner: Technical Accredited**](https://www.credly.com/badges/4b5ecab0-e023-46e2-88b7-085df879da58) — *Amazon Web Services* ([Verificar en Credly ↗️](https://www.credly.com/badges/4b5ecab0-e023-46e2-88b7-085df879da58))
-- 🛡️ [**AWS Partner: Digital Sovereignty Technical**](https://www.credly.com/badges/42b6167e-2fc3-4552-9248-a239421141c0) — *Amazon Web Services* ([Verificar en Credly ↗️](https://www.credly.com/badges/42b6167e-2fc3-4552-9248-a239421141c0))
-
-### 📜 Repositorio de Certificados y Especializaciones Técnicas (+900h)
-<p align="left">
-  <a href="https://acortar.link/CursosCertificados" target="_blank">
-    <img src="https://img.shields.io/badge/%2B-Ver%20M%C3%A1s%20de%20900h%20de%20Certificados-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Ver Certificados Técnicos" />
-  </a>
-</p>
-
-👉 **[Ver Repositorio Completo de Certificados y Especializaciones Técnicas (+900 horas) ↗️](https://acortar.link/CursosCertificados)**  
-*(Incluye acreditaciones en SQL Server, Oracle PL/SQL, TypeScript, Vue.js, Node.js, Clean Architecture y metodologías ágiles).*
+* 🏅 [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/7e2c1725-1c70-494d-b986-cb6c6b720619) — *Amazon Web Services*
+* 🤖 [**AWS Partner: Generative AI Technical**](https://www.credly.com/badges/e42921bf-78e7-48c4-9e7c-686c6800b117) — *Amazon Web Services*
+* 🏗️ [**AWS Partner: Technical Accredited**](https://www.credly.com/badges/4b5ecab0-e023-46e2-88b7-085df879da58) — *Amazon Web Services*
+* 🛡️ [**AWS Partner: Digital Sovereignty Technical**](https://www.credly.com/badges/42b6167e-2fc3-4552-9248-a239421141c0) — *Amazon Web Services*
+* 📜 [**Repositorio de Certificaciones Técnicas Complementarias (+900h)**](https://acortar.link/CursosCertificados) — *SQL, Clean Code, TypeScript, Linux & Cloud*
 
 ---
 
-<p align="center">
-  <b>¿Interesado en colaborar o en consultoría de software?</b><br/>
-  Visita <a href="https://www.sistemasimpulsa.com">www.sistemasimpulsa.com</a> o escríbeme a <a href="mailto:delgadosalcedojavier@gmail.com">delgadosalcedojavier@gmail.com</a>
-</p>
+### 💼 Consultoría & Contacto
+
+* 🌐 **Consultoría y Soluciones:** [Sistemas Impulsa (www.sistemasimpulsa.com)](https://www.sistemasimpulsa.com)
+* 💼 **LinkedIn:** [/in/javier-delgado-salcedo](https://www.linkedin.com/in/javier-delgado-salcedo)
+* ✉️ **Email Directo:** [delgadosalcedojavier@gmail.com](mailto:delgadosalcedojavier@gmail.com)
