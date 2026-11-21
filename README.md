@@ -35,7 +35,7 @@ Bachiller en **Ingeniería de Sistemas e Informática** con **+4 años de experi
 
 ---
 
-## 🛠️ Habilidades Técnicas (Stack Oficial del CV)
+## 🛠️ Habilidades Técnicas & Stack Tecnológico
 
 ### ☁️ Cloud & DevOps
 • **AWS Cloud:** API Gateway, AWS Lambda, CloudFront, AWS WAF, ALB, Amazon ECS (Fargate), AWS ECR, Amazon S3, Amazon RDS, Amazon DynamoDB, Amazon EC2, Amazon SQS (FIFO), Amazon EventBridge.  
