@@ -1,10 +1,9 @@
-# Javier Delgado Salcedo
-### Cloud Full Stack Developer & AWS Certified Solutions Architect
+## ☁️ Cloud Full Stack Developer & AWS Certified Solutions Architect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-delgado-salcedo)
-[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Associate-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/7e2c1725-1c70-494d-b986-cb6c6b720619)
+[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/7e2c1725-1c70-494d-b986-cb6c6b720619)
+[![AWS Partner Generative AI](https://img.shields.io/badge/AWS_Partner-Generative_AI_Technical-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/e42921bf-78e7-48c4-9e7c-686c6800b117)
+[![Certificaciones Técnicas](https://img.shields.io/badge/Certificaciones-%2B900h_Verificables-2ea44f?style=flat&logo=shield&logoColor=white)](https://acortar.link/CursosCertificados)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Sistemas_Impulsa-00C7B7?style=flat&logo=firefox&logoColor=white)](https://www.sistemasimpulsa.com)
-[![Email](https://img.shields.io/badge/Contact-delgadosalcedojavier%40gmail.com-grey?style=flat&logo=gmail)](mailto:delgadosalcedojavier@gmail.com)
 
 ---
 
