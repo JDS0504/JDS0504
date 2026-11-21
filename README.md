@@ -5,11 +5,14 @@
   <a href="https://www.linkedin.com/in/javier-delgado-salcedo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.credly.com" target="_blank">
+  <a href="https://www.credly.com/badges/7e2c1725-1c70-494d-b986-cb6c6b720619" target="_blank">
     <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA" />
   </a>
-  <a href="https://www.credly.com" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-Generative%20AI%20(Bedrock)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS GenAI" />
+  <a href="https://www.credly.com/badges/e42921bf-78e7-48c4-9e7c-686c6800b117" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Partner-Generative%20AI-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS GenAI" />
+  </a>
+  <a href="https://acortar.link/CursosCertificados" target="_blank">
+    <img src="https://img.shields.io/badge/%2B-M%C3%A1s%20Certificados-2ea44f?style=for-the-badge&logo=badge&logoColor=white" alt="+ Certificados" />
   </a>
   <a href="https://www.sistemasimpulsa.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Sistemas_Impulsa-00C7B7?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
@@ -99,12 +102,38 @@ Bachiller en **Ingeniería de Sistemas e Informática** con **+4 años de experi
 
 ---
 
-## 🏆 Certificaciones Oficiales AWS
+## 🏆 Certificaciones Oficiales AWS & Formación Continua
 
-- **AWS Certified Solutions Architect – Associate** *(Amazon Web Services | Credencial Oficial Vigente)*
-- **AWS Partner: Generative AI Technical** *(Amazon Bedrock & GenAI Studio)*
-- **AWS Partner: Technical Accredited** *(AWS Well-Architected Framework)*
-- **AWS Partner: Digital Sovereignty Technical** *(Seguridad de Cloud & Gobierno de Datos)*
+### ☁️ Insignias Oficiales Verificables en Credly
+<p align="left">
+  <a href="https://www.credly.com/badges/7e2c1725-1c70-494d-b986-cb6c6b720619" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS SAA Badge" />
+  </a>
+  <a href="https://www.credly.com/badges/e42921bf-78e7-48c4-9e7c-686c6800b117" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Partner-Generative%20AI%20Technical-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS GenAI Badge" />
+  </a>
+  <a href="https://www.credly.com/badges/4b5ecab0-e023-46e2-88b7-085df879da58" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Partner-Technical%20Accredited-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Technical Accredited Badge" />
+  </a>
+  <a href="https://www.credly.com/badges/42b6167e-2fc3-4552-9248-a239421141c0" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Partner-Digital%20Sovereignty-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Digital Sovereignty Badge" />
+  </a>
+</p>
+
+- 🏅 [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/7e2c1725-1c70-494d-b986-cb6c6b720619) — *Amazon Web Services* ([Verificar en Credly ↗️](https://www.credly.com/badges/7e2c1725-1c70-494d-b986-cb6c6b720619))
+- 🤖 [**AWS Partner: Generative AI Technical**](https://www.credly.com/badges/e42921bf-78e7-48c4-9e7c-686c6800b117) — *Amazon Web Services* ([Verificar en Credly ↗️](https://www.credly.com/badges/e42921bf-78e7-48c4-9e7c-686c6800b117))
+- 🏗️ [**AWS Partner: Technical Accredited**](https://www.credly.com/badges/4b5ecab0-e023-46e2-88b7-085df879da58) — *Amazon Web Services* ([Verificar en Credly ↗️](https://www.credly.com/badges/4b5ecab0-e023-46e2-88b7-085df879da58))
+- 🛡️ [**AWS Partner: Digital Sovereignty Technical**](https://www.credly.com/badges/42b6167e-2fc3-4552-9248-a239421141c0) — *Amazon Web Services* ([Verificar en Credly ↗️](https://www.credly.com/badges/42b6167e-2fc3-4552-9248-a239421141c0))
+
+### 📜 Repositorio de Certificados y Especializaciones Técnicas (+900h)
+<p align="left">
+  <a href="https://acortar.link/CursosCertificados" target="_blank">
+    <img src="https://img.shields.io/badge/%2B-Ver%20M%C3%A1s%20de%20900h%20de%20Certificados-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Ver Certificados Técnicos" />
+  </a>
+</p>
+
+👉 **[Ver Repositorio Completo de Certificados y Especializaciones Técnicas (+900 horas) ↗️](https://acortar.link/CursosCertificados)**  
+*(Incluye acreditaciones en SQL Server, Oracle PL/SQL, TypeScript, Vue.js, Node.js, Clean Architecture y metodologías ágiles).*
 
 ---
 
